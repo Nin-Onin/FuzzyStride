@@ -11,7 +11,7 @@ Smart Running Adviser is a fuzzy logic system developed as LAB - 3 in CSci 141 I
 ## Welcome Interface
 <img src="./Assets/Welcome_Interface.png" alt="LS" width="1000" height="600">
 
-## Main Interface
+## Main User Interface
 <img src="./Assets/Main_UI_Interface.png" alt="LS" width="1000" height="600">
 
 ## Input
