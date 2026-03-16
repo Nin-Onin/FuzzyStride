@@ -21,7 +21,7 @@ Smart Running Adviser is a fuzzy logic system developed as LAB - 3 in CSci 141 I
 <img src="./Assets/Defuzzification.png" alt="LS" width="600" height="400">
 
 #### Overview
-<img src="./Assets/Main_UI_Overview.png" alt="LS" width="1000" height="600">
+<img src="./Assets/Main_UI_Overview.png" alt="LS" width="600" height="400">
 
 ## Requirements / Installations
 * pip install matplotlib <br>
